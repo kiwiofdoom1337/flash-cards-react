@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flash-cards-react/static/css/main.fd165d3f.css",
+    "main.js": "/flash-cards-react/static/js/main.d81125bd.js",
+    "static/js/453.fff79695.chunk.js": "/flash-cards-react/static/js/453.fff79695.chunk.js",
+    "index.html": "/flash-cards-react/index.html",
+    "main.fd165d3f.css.map": "/flash-cards-react/static/css/main.fd165d3f.css.map",
+    "main.d81125bd.js.map": "/flash-cards-react/static/js/main.d81125bd.js.map",
+    "453.fff79695.chunk.js.map": "/flash-cards-react/static/js/453.fff79695.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd165d3f.css",
+    "static/js/main.d81125bd.js"
+  ]
+}
